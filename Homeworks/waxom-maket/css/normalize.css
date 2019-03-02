@@ -21,7 +21,8 @@ html {
  */
 
 body {
-  margin: auto;
+  margin: 0 auto;
+padding: 0 auto;
     
 }
 
@@ -30,7 +31,7 @@ body {
  */
 
 main {
-  display: block;
+   display: block; 
     
 }
 
